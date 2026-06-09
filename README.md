@@ -50,8 +50,7 @@ Google Sites 안에 직접 HTML 파일을 업로드하는 방식보다, 정적 �
 주요 이미지:
 
 - `assets/place-story-strip.png`: 커버용 가로 보드
-- `assets/full-space-board.png`: 공간 제안 전체 보드
-- `assets/full-brand-board.png`: 인테리어 무드 전체 보드
+- `assets/final-interior-board.png`: 확정 인테리어 전체 보드
 - `assets/final-brand-identity.png`: 확정 로고/패키지/인스타그램 브랜딩 전체 보드
 
 보드 이미지는 원본보다 크게 확대하지 않도록 설정되어 있습니다.
